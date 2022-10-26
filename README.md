@@ -1,2 +1,2 @@
 # node-nestjs
-Test node and nest project
+Test node and nestjs project
